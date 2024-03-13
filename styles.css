@@ -1,0 +1,18 @@
+.container {
+    text-align: center; /* Centrer le texte à l'intérieur du conteneur */
+    margin-top: 20px; /* Marge en haut de 20 pixels */
+}
+
+#color-box {
+    width: 200px; /* Largeur de 200 pixels */
+    height: 200px; /* Hauteur de 200 pixels */
+    background-color: aliceblue; /* Couleur de fond aliceblue */
+}
+
+#change-color-btn {
+    padding: 10px 20px; /* Remplissage de 10 pixels en haut et en bas, 20 pixels à gauche et à droite */
+    background-color: #f44336; /* Couleur de fond rouge */
+    color: white; /* Couleur du texte en blanc */
+    border: none; /* Pas de bordure */
+    cursor: pointer; /* Curseur de type pointeur au survol */
+}
